@@ -1,0 +1,17 @@
+C:\Users\diana\source\repos\Beginners 05 Windows Forms and Event Handlers\Beginners 05 Windows Forms and Event Handlers\bin\Debug\net6.0-windows\Beginners 05 Windows Forms and Event Handlers.exe
+C:\Users\diana\source\repos\Beginners 05 Windows Forms and Event Handlers\Beginners 05 Windows Forms and Event Handlers\bin\Debug\net6.0-windows\Beginners 05 Windows Forms and Event Handlers.deps.json
+C:\Users\diana\source\repos\Beginners 05 Windows Forms and Event Handlers\Beginners 05 Windows Forms and Event Handlers\bin\Debug\net6.0-windows\Beginners 05 Windows Forms and Event Handlers.runtimeconfig.json
+C:\Users\diana\source\repos\Beginners 05 Windows Forms and Event Handlers\Beginners 05 Windows Forms and Event Handlers\bin\Debug\net6.0-windows\Beginners 05 Windows Forms and Event Handlers.dll
+C:\Users\diana\source\repos\Beginners 05 Windows Forms and Event Handlers\Beginners 05 Windows Forms and Event Handlers\bin\Debug\net6.0-windows\Beginners 05 Windows Forms and Event Handlers.pdb
+C:\Users\diana\source\repos\Beginners 05 Windows Forms and Event Handlers\Beginners 05 Windows Forms and Event Handlers\obj\Debug\net6.0-windows\Beginners 05 Windows Forms and Event Handlers.csproj.AssemblyReference.cache
+C:\Users\diana\source\repos\Beginners 05 Windows Forms and Event Handlers\Beginners 05 Windows Forms and Event Handlers\obj\Debug\net6.0-windows\Beginners_05_Windows_Forms_and_Event_Handlers.Form1.resources
+C:\Users\diana\source\repos\Beginners 05 Windows Forms and Event Handlers\Beginners 05 Windows Forms and Event Handlers\obj\Debug\net6.0-windows\Beginners 05 Windows Forms and Event Handlers.csproj.GenerateResource.cache
+C:\Users\diana\source\repos\Beginners 05 Windows Forms and Event Handlers\Beginners 05 Windows Forms and Event Handlers\obj\Debug\net6.0-windows\Beginners 05 Windows Forms and Event Handlers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diana\source\repos\Beginners 05 Windows Forms and Event Handlers\Beginners 05 Windows Forms and Event Handlers\obj\Debug\net6.0-windows\Beginners 05 Windows Forms and Event Handlers.AssemblyInfoInputs.cache
+C:\Users\diana\source\repos\Beginners 05 Windows Forms and Event Handlers\Beginners 05 Windows Forms and Event Handlers\obj\Debug\net6.0-windows\Beginners 05 Windows Forms and Event Handlers.AssemblyInfo.cs
+C:\Users\diana\source\repos\Beginners 05 Windows Forms and Event Handlers\Beginners 05 Windows Forms and Event Handlers\obj\Debug\net6.0-windows\Beginners 05 Windows Forms and Event Handlers.csproj.CoreCompileInputs.cache
+C:\Users\diana\source\repos\Beginners 05 Windows Forms and Event Handlers\Beginners 05 Windows Forms and Event Handlers\obj\Debug\net6.0-windows\Beginners 05 Windows Forms and Event Handlers.dll
+C:\Users\diana\source\repos\Beginners 05 Windows Forms and Event Handlers\Beginners 05 Windows Forms and Event Handlers\obj\Debug\net6.0-windows\refint\Beginners 05 Windows Forms and Event Handlers.dll
+C:\Users\diana\source\repos\Beginners 05 Windows Forms and Event Handlers\Beginners 05 Windows Forms and Event Handlers\obj\Debug\net6.0-windows\Beginners 05 Windows Forms and Event Handlers.pdb
+C:\Users\diana\source\repos\Beginners 05 Windows Forms and Event Handlers\Beginners 05 Windows Forms and Event Handlers\obj\Debug\net6.0-windows\Beginners 05 Windows Forms and Event Handlers.genruntimeconfig.cache
+C:\Users\diana\source\repos\Beginners 05 Windows Forms and Event Handlers\Beginners 05 Windows Forms and Event Handlers\obj\Debug\net6.0-windows\ref\Beginners 05 Windows Forms and Event Handlers.dll
